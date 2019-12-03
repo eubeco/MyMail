@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-    <item
-        android:id="@+id/menu_Inbox"
-        android:icon="@drawable/ic_inbox_foreground"
-        android:title="Inbox"/>
-    <item
-        android:id="@+id/menu_Outbox"
-        android:icon="@drawable/ic_outbox_foreground"
-        android:title="Outbox"/>
-    <item
-        android:id="@+id/menu_Trash"
-        android:icon="@drawable/ic_trash_foreground"
-        android:title="Trash"/>
-    <item
-        android:id="@+id/menu_Spam"
-        android:icon="@drawable/ic_spam_foreground"
-        android:title="Spam"/>
+<item
+    android:id="@+id/menu_Inbox"
+    android:icon="@drawable/ic_inbox_foreground"
+    android:title="Inbox"/>
+<item
+    android:id="@+id/menu_Outbox"
+    android:icon="@drawable/ic_outbox_foreground"
+    android:title="Outbox"/>
+<item
+    android:id="@+id/menu_Trash"
+    android:icon="@drawable/ic_trash_foreground"
+    android:title="Trash"/>
+<item
+    android:id="@+id/menu_Spam"
+    android:icon="@drawable/ic_spam_foreground"
+    android:title="Spam"/>
 
 </menu>
